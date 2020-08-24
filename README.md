@@ -4,6 +4,7 @@ Projeto para registro de notas dos alunos.
 ## :computer: Preview
 
 [Printscreen Listagem das Notas](https://github.com/ProjetosAdriany/BootcampIGTI-controle-notas/blob/master/controle-notas-1.jpg)
+
 [Printscreen Modal](https://github.com/ProjetosAdriany/BootcampIGTI-controle-notas/blob/master/controle-notas-2.jpg)
  
 ## :rocket: Tecnologias 
